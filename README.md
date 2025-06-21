@@ -65,7 +65,9 @@ codsoft_job_board/
 
 ## 📸 Screenshots
 
-(You can upload screenshots here from your running project if needed)
+![Screenshot 2025-06-21 230721](https://github.com/user-attachments/assets/820e5598-f3d1-4444-8a83-54be94f453d1)
+
+![Screenshot 2025-06-21 230744](https://github.com/user-attachments/assets/ead01e61-9b53-459c-bd22-01bebb8a8f85)
 
 ---
 
