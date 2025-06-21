@@ -68,6 +68,10 @@ codsoft_job_board/
 ![Screenshot 2025-06-21 230721](https://github.com/user-attachments/assets/820e5598-f3d1-4444-8a83-54be94f453d1)
 
 ![Screenshot 2025-06-21 230744](https://github.com/user-attachments/assets/ead01e61-9b53-459c-bd22-01bebb8a8f85)
+![Screenshot 2025-06-21 161358](https://github.com/user-attachments/assets/312805eb-83e7-4826-9c8a-0007aa77c126)
+![Screenshot 2025-06-20 194359](https://github.com/user-attachments/assets/e1f224b1-f613-4227-b46d-ca8862b424b8)
+![Screenshot 2025-06-21 231108](https://github.com/user-attachments/assets/593dcefb-47a8-48ee-88f9-31f1d536097f)
+
 
 ---
 
